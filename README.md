@@ -1,4 +1,4 @@
 # newbie
 hello
 <br>
-welcome to git hub
+welcome to newbie's rep...
